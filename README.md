@@ -9,9 +9,9 @@ Works in **Claude Code**, **Codex** and **Grok Build**. Free to use (MIT).
 ## Install
 
 ```bash
-git clone <this repo>
-cd video-edit-effects
-./install.sh          # Windows: ./install.ps1
+git clone https://github.com/designkomalk-create/video-edits-effects-skill.git
+cd video-edits-effects-skill
+bash install.sh          # Windows: ./install.ps1
 ```
 
 This copies the skill to:
